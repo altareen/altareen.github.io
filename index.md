@@ -24,7 +24,7 @@ Rice FOC7   | The Fundamentals of Computing Capstone Exam | June 2017 | [Rice FO
 
 ---
 
-# [University at Buffalo:](http://www.buffalo.edu) Design Projects
+# [University at Buffalo:](https://engineering.buffalo.edu/computer-science-engineering.html) Design Projects
 
 ---
 
