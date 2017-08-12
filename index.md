@@ -13,4 +13,5 @@ HarvardX CS50 | Introduction to Computer Science | January 2017 | [HarvardX CS50
 Course Code | Course Title | Date | Verified Certificate Link
 ----------- | ------------ | ---- | -------------------------
 Rice FOC1   | An Introduction to Interactive Programming in Python(Part 1) | October 2016 | [Rice FOC1 Certificate](https://www.coursera.org/account/accomplishments/certificate/PT4X2V9RR9JL)
+Rice FOC2   | An Introduction to Interactive Programming in Python(Part 2) | October 2016 | [Rice FOC2 Certificate](https://www.coursera.org/account/accomplishments/certificate/HSXM8ABZDCPE)
 
