@@ -1,4 +1,4 @@
-# edX Verified Certificates
+# [edX](http://www.edx.org) Verified Certificates
 
 Course Code | Course Title | Date | File Size | PDF File | Valid Certificate ID
 ----------- | ------------ | ---- | --------- | -------- | --------------------
