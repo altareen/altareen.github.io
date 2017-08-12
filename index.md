@@ -30,10 +30,10 @@ Rice FOC7   | The Fundamentals of Computing Capstone Exam | June 2017 | [Rice FO
 
 # [Beijing National Day School:](http://www.bndsedu.com/index.php?m=Index&a=index_eng) Teaching Duties
 
-Course Website | Section Number 
--------------- | --------------:
-[AP Computer Science A](https://altareen.github.io/apcompsci) | 3
-[AP Computer Science Principles](https://altareen.github.io/apcsprinciples2) | 2
-[AP Computer Science Principles](https://altareen.github.io/apcsprinciples4) | 4
-[A2 Level Computer Science](https://altareen.github.io/a2levelcompsci) | 1
+Course Website | Grade Level | Section Number 
+-------------- | ----------- | --------------:
+[AP Computer Science A](https://altareen.github.io/apcompsci) | 11 and 12 | 3
+[AP Computer Science Principles](https://altareen.github.io/apcsprinciples2) | 11 and 12 | 2
+[AP Computer Science Principles](https://altareen.github.io/apcsprinciples4) | 11 and 12 | 4
+[A2 Level Computer Science](https://altareen.github.io/a2levelcompsci) | 12 | 1
 
