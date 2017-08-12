@@ -32,7 +32,8 @@ Rice FOC7   | The Fundamentals of Computing Capstone Exam | June 2017 | [Rice FO
 
 Course Website | Section Number 
 -------------- | --------------:
-[AP Computer Science A](https://altareen.github.io/apcompsci) | 2
-
-
+[AP Computer Science A](https://altareen.github.io/apcompsci) | 3
+[AP Computer Science Principles](https://altareen.github.io/apcsprinciples2) | 2
+[AP Computer Science Principles](https://altareen.github.io/apcsprinciples4) | 4
+[A2 Level Computer Science](https://altareen.github.io/a2levelcompsci) | 1
 
