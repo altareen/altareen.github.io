@@ -14,4 +14,6 @@ Course Code | Course Title | Date | Verified Certificate Link
 ----------- | ------------ | ---- | -------------------------
 Rice FOC1   | An Introduction to Interactive Programming in Python(Part 1) | October 2016 | [Rice FOC1 Certificate](https://www.coursera.org/account/accomplishments/certificate/PT4X2V9RR9JL)
 Rice FOC2   | An Introduction to Interactive Programming in Python(Part 2) | October 2016 | [Rice FOC2 Certificate](https://www.coursera.org/account/accomplishments/certificate/HSXM8ABZDCPE)
+Rice FOC3   | Principles of Computing(Part 1) | October 2016 | [Rice FOC3 Certificate](https://www.coursera.org/account/accomplishments/certificate/BQ85BJBTVSF8)
+
 
