@@ -31,7 +31,7 @@ Rice FOC7   | The Fundamentals of Computing Capstone Exam | June 2017 | [Rice FO
 # [Beijing National Day School:](http://www.bndsedu.com/index.php?m=Index&a=index_eng) Teaching Duties
 
 Course Website | Section Number 
--------------- | --------------
+-------------- | --------------:
 [AP Computer Science A](https://altareen.github.io/apcompsci) | 2
 
 
