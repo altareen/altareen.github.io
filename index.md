@@ -10,7 +10,7 @@ HarvardX CS50 | Introduction to Computer Science | January 2017 | [HarvardX CS50
 
 # [Coursera:](https://www.coursera.org) Verified Course Certificates
 
-### 
+### Fundamentals of Computing Specialization, Rice University
 
 Course Code | Course Title | Date | Verified Certificate Link
 ----------- | ------------ | ---- | -------------------------
