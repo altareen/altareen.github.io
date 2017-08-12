@@ -8,7 +8,7 @@ HarvardX CS50 | Introduction to Computer Science | January 2017 | 100KB | [harva
 
 # [Coursera](https://www.coursera.org) Verified Course Certificates
 
-Course Code | Course Title | Date | File Size | PDF File | Valid Certificate ID
------------ | ------------ | ---- | --------- | -------- | --------------------
-Rice FOC1   | An Introduction to Interactive Programming in Python(Part 1) | October 2016 | 344KB | [riceFOC1Certificate.pdf](./assets/riceFOC1Certificate.pdf) | [Verification Link](https://www.coursera.org/account/accomplishments/certificate/PT4X2V9RR9JL)
+Course Code | Course Title | Date | Verified Certificate Link
+----------- | ------------ | ---- | -------------------------
+Rice FOC1   | An Introduction to Interactive Programming in Python(Part 1) | October 2016 | [Rice FOC1 Certificate](https://www.coursera.org/account/accomplishments/certificate/PT4X2V9RR9JL)
 
