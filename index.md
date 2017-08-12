@@ -22,3 +22,17 @@ Rice FOC5   | Algorithmic Thinking(Part 1) | October 2016 | [Rice FOC5 Certifica
 Rice FOC6   | Algorithmic Thinking(Part 2) | May 2017 | [Rice FOC6 Certificate](https://www.coursera.org/account/accomplishments/certificate/3YHFELD3LCF5)
 Rice FOC7   | The Fundamentals of Computing Capstone Exam | June 2017 | [Rice FOC7 Certificate](https://www.coursera.org/account/accomplishments/certificate/46X42SMSLJD5)
 
+---
+
+# [University at Buffalo:](http://www.buffalo.edu) Design Projects
+
+---
+
+# [Beijing National Day School:](http://www.bndsedu.com/index.php?m=Index&a=index_eng) Teaching Duties
+
+Course Website | Section Number 
+-------------- | --------------
+[AP Computer Science A](https://altareen.github.io/apcompsci) | 2
+
+
+
