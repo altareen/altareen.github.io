@@ -17,5 +17,5 @@ Rice FOC2   | An Introduction to Interactive Programming in Python(Part 2) | Oct
 Rice FOC3   | Principles of Computing(Part 1) | October 2016 | [Rice FOC3 Certificate](https://www.coursera.org/account/accomplishments/certificate/BQ85BJBTVSF8)
 Rice FOC4   | Principles of Computing(Part 2) | May 2017 | [Rice FOC4 Certificate](https://www.coursera.org/account/accomplishments/certificate/WGYK6GMRJ86J)
 Rice FOC5   | Algorithmic Thinking(Part 1) | October 2016 | [Rice FOC5 Certificate](https://www.coursera.org/account/accomplishments/certificate/YFVPF96TQV78)
-
+Rice FOC6   | Algorithmic Thinking(Part 2) | May 2017 | [Rice FOC6 Certificate](https://www.coursera.org/account/accomplishments/certificate/3YHFELD3LCF5)
 
