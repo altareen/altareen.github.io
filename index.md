@@ -34,6 +34,14 @@ CSE 701     | Wireless Networking Seminar | Robust Rate Adaptation for 802.11 Wi
 
 ---
 
+# Journal Papers
+
+Conference | Date | Paper | File Size | PDF File
+---------- | ---- | ----- | --------- | --------
+International Symposium on Circuits and Systems | May 2000 | Gate Triggering of Integrated Circuits | 331KB | [iscas2000gateTriggering.pdf](./assets/iscas2000gateTriggering.pdf)
+
+---
+
 # [Beijing National Day School:](http://www.bndsedu.com/index.php?m=Index&a=index_eng) Teaching Duties
 
 Course Website | Grade Level | Section Number 
