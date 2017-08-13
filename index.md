@@ -40,6 +40,7 @@ Conference | Date | Paper | File Size | PDF File
 ---------- | ---- | ----- | --------- | --------
 International Symposium on Circuits and Systems | May 2000 | Gate Triggering of Integrated Circuits | 331KB | [iscas2000gateTriggering.pdf](./assets/iscas2000gateTriggering.pdf)
 Midwest Symposium on Circuits and Systems | August 2002 | Comparison and Analysis of Delay Elements | 90KB | [mwscas2002delayElements.pdf](./assets/mwscas2002delayElements.pdf)
+Advanced Information Retrieval | May 2011 | A Cold Start Recommendation System | 687KB | [mscseProject20may2011.pdf](./assets/mscseProject20may2011.pdf)
 
 ---
 
