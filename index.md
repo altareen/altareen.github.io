@@ -26,6 +26,10 @@ Rice FOC7   | The Fundamentals of Computing Capstone Exam | June 2017 | [Rice FO
 
 # [University at Buffalo:](https://engineering.buffalo.edu/computer-science-engineering.html) Design Projects
 
+Course Code | Course Title | Description | File Size | PDF File
+----------- | ------------ | ----------- | --------- | --------
+CSE 521     | Introduction to Operating Systems | Design of a Secondary Storage System in C++ | 130KB | [cse521project3.pdf](./assets/cse521project3.pdf)
+
 ---
 
 # [Beijing National Day School:](http://www.bndsedu.com/index.php?m=Index&a=index_eng) Teaching Duties
