@@ -48,8 +48,6 @@ Advanced Information Retrieval | May 2011 | A Cold Start Recommendation System |
 
 Course Website | Grade Level | Section Number 
 -------------- | ----------- | --------------:
-[AP Computer Science A](https://altareen.github.io/apcompsci) | 11 and 12 | 3
-[AP Computer Science Principles](https://altareen.github.io/apcsprinciples2) | 11 and 12 | 2
-[AP Computer Science Principles](https://altareen.github.io/apcsprinciples4) | 11 and 12 | 4
-[A2 Level Computer Science](https://altareen.github.io/a2levelcompsci) | 12 | 1
+[AP Computer Science A](https://altareen.github.io/apcompsci) | 11 and 12 | 1 and 5
+[AP Computer Science Principles](https://altareen.github.io/apcsprinciples) | 11 and 12 | 2 and 3
 
