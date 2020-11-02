@@ -44,10 +44,10 @@ Advanced Information Retrieval | May 2011 | A Cold Start Recommendation System |
 
 ---
 
-# [Beijing National Day School:](http://www.bndsedu.com/index.php?m=Index&a=index_eng) Teaching Duties
+<!-- # [Beijing National Day School:](http://www.bndsedu.com/index.php?m=Index&a=index_eng) Teaching Duties
 
 Course Website | Grade Level | Section Number 
 -------------- | ----------- | --------------:
 [AP Computer Science A](https://altareen.github.io/csa) | 11 and 12 | 1 and 5
-[AP Computer Science Principles](https://altareen.github.io/csp) | 11 and 12 | 2 and 3
+[AP Computer Science Principles](https://altareen.github.io/csp) | 11 and 12 | 2 and 3 -->
 
