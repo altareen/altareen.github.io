@@ -6,8 +6,6 @@ Personal Website | Languages
 ---------------- | ---------
 [Programming Projects](https://altareen.github.io/coding) | `Python`, `Java`, `C/C++`
 
----
-
 ## Past Teaching Duties
 
 Course Website | Duration
