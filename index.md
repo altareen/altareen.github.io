@@ -1,4 +1,4 @@
-# [edX:](https://www.edx.org) Verified Course Certificate Links
+# [edX:](https://www.edx.org) Verified Course Certificates
 
 Course Code | Course Title | Date | Verified Certificate Link
 ----------- | ------------ | ---- | -------------------------
@@ -8,7 +8,7 @@ HarvardX CS50 | Introduction to Computer Science | January 2017 | [HarvardX CS50
 
 ---
 
-# [Coursera:](https://www.coursera.org) Verified Course Certificate Links
+# [Coursera:](https://www.coursera.org) Verified Course Certificates
 
 ### Fundamentals of Computing Specialization, *Rice University*
 
