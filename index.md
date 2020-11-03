@@ -1,4 +1,19 @@
-# [edX:](https://www.edx.org) Verified Course Certificates
+# Alwin Tareen's Projects and Teaching
+
+---
+
+## Personal Programming Projects: [altareen.github.io/coding](https://altareen.github.io/coding)
+
+---
+
+## Teaching Duties
+
+Course Website | Grade Level
+-------------- | -----------
+[AP Computer Science A](https://altareen.github.io/csa) | 11 and 12
+[AP Computer Science Principles](https://altareen.github.io/csp) | 11 and 12
+
+<!-- # [edX:](https://www.edx.org) Verified Course Certificates
 
 Course Code | Course Title | Date | Verified Certificate Link
 ----------- | ------------ | ---- | -------------------------
@@ -44,7 +59,7 @@ Advanced Information Retrieval | May 2011 | A Cold Start Recommendation System |
 
 ---
 
-<!-- # [Beijing National Day School:](http://www.bndsedu.com/index.php?m=Index&a=index_eng) Teaching Duties
+# [Beijing National Day School:](http://www.bndsedu.com/index.php?m=Index&a=index_eng) Teaching Duties
 
 Course Website | Grade Level | Section Number 
 -------------- | ----------- | --------------:
