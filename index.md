@@ -1,17 +1,19 @@
 # Alwin Tareen's Projects and Teaching
 
+## A Portfolio of Programming Projects
+
+Personal Website | Languages
+---------------- | ---------
+[Programming Projects](https://altareen.github.io/coding) | `Python`, `Java`, `C/C++`
+
 ---
 
-## Personal Programming Projects: [altareen.github.io/coding](https://altareen.github.io/coding)
+## Past Teaching Duties
 
----
-
-## Teaching Duties
-
-Course Website | Grade Level
--------------- | -----------
-[AP Computer Science A](https://altareen.github.io/csa) | 11 and 12
-[AP Computer Science Principles](https://altareen.github.io/csp) | 11 and 12
+Course Website | Duration
+-------------- | --------
+[AP Computer Science A](https://altareen.github.io/csa) | 2013 to 2020
+[AP Computer Science Principles](https://altareen.github.io/csp) | 2016 to 2020
 
 <!-- # [edX:](https://www.edx.org) Verified Course Certificates
 
