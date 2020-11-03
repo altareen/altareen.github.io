@@ -1,12 +1,10 @@
-# Alwin Tareen's Projects and Teaching
-
-## A Portfolio of Programming Projects
+# A Portfolio of Programming Projects
 
 Personal Website | Languages
 ---------------- | ---------
 [Programming Projects](https://altareen.github.io/coding) | `Python`, `Java`, `C/C++`
 
-## Past Teaching Duties
+# Past Teaching Duties
 
 Course Website | Duration
 -------------- | --------
