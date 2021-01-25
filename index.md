@@ -1,8 +1,20 @@
+<!--
+|-------------------------------------------------------------------------------
+| index.md
+|-------------------------------------------------------------------------------
+|
+| Author:       Alwin Tareen
+| Created:      Jan 25, 2021
+|
+| This is my personal website.
+|
+-->
+
 # A Portfolio of Programming Projects
 
-Personal Website | Languages
----------------- | ---------
-[Programming Projects](https://altareen.github.io/coding) | `Python`, `Java`, `C/C++`
+Project Website | Languages/Frameworks
+---------------- | --------------------
+A [Course Registration System](http://academic-registration.herokuapp.com/login) for a fictional high school. | `Python`, `Flask`
 
 # Past Teaching Duties
 
