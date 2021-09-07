@@ -10,7 +10,7 @@
 |
 -->
 
-# A Portfolio of Programming Projects
+# Programming Projects
 
 Project Website | Languages/Frameworks
 ---------------- | --------------------
