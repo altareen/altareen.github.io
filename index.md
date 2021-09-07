@@ -24,6 +24,13 @@ Course Website | Duration
 [AP Computer Science A](https://altareen.github.io/csa) | 2013 to 2020
 [AP Computer Science Principles](https://altareen.github.io/csp) | 2016 to 2020
 
+# HarvardX CS50 Courses
+
+Certificate | Date
+----------- | ----
+[CS50x: Introduction to Computer Science](https://courses.edx.org/certificates/94dfc940d4a247e5b687f272a1a2715f) | November 2020
+[CS50w: Web Programming with Python and JavaScript](https://certificates.cs50.io/d3d34148-f4a2-422e-b08c-47b947cfb25d.pdf?size=letter) | July 2021
+
 <!-- # [edX:](https://www.edx.org) Verified Course Certificates
 
 Course Code | Course Title | Date | Verified Certificate Link
