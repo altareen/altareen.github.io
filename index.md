@@ -28,7 +28,7 @@ Course Website | Duration
 
 Certificate | Date
 ----------- | ----
-[CS50x: Introduction to Computer Science](https://courses.edx.org/certificates/94dfc940d4a247e5b687f272a1a2715f) | November 2020
+[CS50x: Introduction to Computer Science](https://cs50.harvard.edu/certificates/83d1179c-48e4-4810-ae17-d11446b49675) | November 2020
 [CS50w: Web Programming with Python and JavaScript](https://certificates.cs50.io/d3d34148-f4a2-422e-b08c-47b947cfb25d.pdf?size=letter) | July 2021
 [CS50ai: Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/f98b48eb-c761-4517-9f6f-bb83402f8971) | September 2021
 
