@@ -12,5 +12,5 @@ I have not programmed this app to collect any personally identifiable informatio
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please contact me, and I will do my best to resolve the matter.
 
-Yours sincerely,
+Yours sincerely,  
 AlFonz
