@@ -1,7 +1,5 @@
 # Randomator: Privacy Policy
 
---
-
 Welcome to the Randomator app for Android!
 
 This is an open source Android app developed by AlFonz.
