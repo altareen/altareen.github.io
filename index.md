@@ -15,6 +15,7 @@
 Project Website | Languages/Frameworks
 ---------------- | --------------------
 A two player [Tic-Tac-Toe](https://alwin-tictactoe.herokuapp.com/) game. | `Python`, `Flask`
+A [Stock Portfolio Manager](https://finance-stocks.herokuapp.com/login) which models a virtual stock market. | `Python`, `Flask`
 A [Course Registration System](http://academic-registration.herokuapp.com/login) for a fictional high school. | `Python`, `Flask`
 A solver for the [Fifteen Tile Sliding Puzzle](https://py2.codeskulptor.org/#user48_juzU6X12Kw_4.py). Press the play button to run. | `Python`, `CodeSkulptor`
 
