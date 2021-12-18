@@ -27,7 +27,7 @@ Project Website | Languages/Frameworks
 A [Stopwatch](https://py2.codeskulptor.org/#user40_l4l9VbGgCA_7.py) game, which tests your reflexes. | `Python`, `Skulptor`
 A [Pong](https://py2.codeskulptor.org/#user40_bKhrkQuaws_10.py) clone, where users must move a paddle up or down to keep a ball in play. | `Python`, `Skulptor`
 A [Memory](https://py2.codeskulptor.org/#user5-gzATlXBWGN-4.py) game, where a player has to remember which numbers are paired up. | `Python`, `Skulptor`
-The classic game of [Blackjack](https://py2.codeskulptor.org/#user6-AemuZnJl43-82.py). Try to get close to 21 without going bust! | `Python`, `Skulptor`
+A [Blackjack](https://py2.codeskulptor.org/#user6-AemuZnJl43-82.py) game. Try to get close to 21 without going bust! | `Python`, `Skulptor`
 A [Spaceship](https://py2.codeskulptor.org/#user48_MPQTkk1KW3_36.py) game, where a user must guide a spaceship through an asteroid field. | `Python`, `Skulptor`
 A solver for the [Fifteen Tile Sliding Puzzle](https://py2.codeskulptor.org/#user48_juzU6X12Kw_4.py). Press the play button to run. | `Python`, `Skulptor`
 
