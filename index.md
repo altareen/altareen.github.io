@@ -14,9 +14,11 @@
 
 Project Website | Languages/Frameworks
 ---------------- | --------------------
-A two player [Tic-Tac-Toe](https://alwin-tictactoe.herokuapp.com/) game. | `Python`, `Flask`
+A [Book Search System](https://cs50beyond-booksearch.herokuapp.com/) which allows users to search for books by an author's name, or by book title. | `Python`, `Flask`
 A [Stock Portfolio Manager](https://finance-stocks.herokuapp.com/login) which models a virtual stock market. | `Python`, `Flask`
 A [Course Registration System](http://academic-registration.herokuapp.com/login) for a fictional high school. | `Python`, `Flask`
+An [Auction Marketplace](https://commerce-marketplace.herokuapp.com/) which allows potential buyers to bid on household items for sale. | `Python`, `Django`
+A [Microblogging Site](https://network-microblog.herokuapp.com/) where users can post short messages to a community board, and "follow" other users. | `Python`, `Django`
 A solver for the [Fifteen Tile Sliding Puzzle](https://py2.codeskulptor.org/#user48_juzU6X12Kw_4.py). Press the play button to run. | `Python`, `CodeSkulptor`
 
 # Past Teaching Duties
