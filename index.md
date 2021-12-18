@@ -10,7 +10,7 @@
 |
 -->
 
-# Programming Projects
+# Web Development Projects
 
 Project Website | Languages/Frameworks
 ---------------- | --------------------
@@ -19,14 +19,17 @@ A [Stock Portfolio Manager](https://finance-stocks.herokuapp.com/login) which mo
 A [Course Registration System](http://academic-registration.herokuapp.com/login) for a fictional high school. | `Python`, `Flask`
 An [Auction Marketplace](https://commerce-marketplace.herokuapp.com/) which allows potential buyers to bid on household items for sale. | `Python`, `Django`
 A [Microblogging Site](https://network-microblog.herokuapp.com/) where users can post short messages to a community board, and "follow" other users. | `Python`, `Django`
+
+# Game & Puzzle Projects
+
+Project Website | Languages/Frameworks
+---------------- | --------------------
+A [Stopwatch]() game, which tests your reflexes. | `Python`, `CodeSkulptor`
+A [Pong]() clone, where users must move a paddle up or down to keep a ball in play. | `Python`, `CodeSkulptor`
+A [Memory]() game, where a player has to remember which numbers are paired up. | `Python`, `CodeSkulptor`
+The classic game of [Blackjack](). Try to get close to 21 without going bust! | `Python`, `CodeSkulptor`
+A [Spaceship]() game, where a user must guide a spaceship through an asteroid field. | `Python`, `CodeSkulptor`
 A solver for the [Fifteen Tile Sliding Puzzle](https://py2.codeskulptor.org/#user48_juzU6X12Kw_4.py). Press the play button to run. | `Python`, `CodeSkulptor`
-
-# Past Teaching Duties
-
-Course Website | Duration
--------------- | --------
-[AP Computer Science A](https://altareen.github.io/csa) | 2013 to 2020
-[AP Computer Science Principles](https://altareen.github.io/csp) | 2016 to 2020
 
 # HarvardX Courses
 
@@ -42,6 +45,13 @@ Certificate | Date
 ----------- | ----
 6.00.1x: [Introduction to Computer Science and Programming Using Python](https://verify.edx.org/cert/5b17beb140d747268addaf8f42dd318e) | August 2015
 6.00.2x: [Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/c6bf2d4185d448a48027700a639cadb2) | December 2015
+
+# Beijing National Day School: Past Teaching Duties
+
+Course Website | Duration
+-------------- | --------
+[AP Computer Science A](https://altareen.github.io/csa) | 2013 to 2020
+[AP Computer Science Principles](https://altareen.github.io/csp) | 2016 to 2020
 
 <!-- # [edX:](https://www.edx.org) Verified Course Certificates
 
