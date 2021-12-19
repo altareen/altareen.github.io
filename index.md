@@ -35,8 +35,8 @@ A solver for the [Fifteen Tile Sliding Puzzle](https://py2.codeskulptor.org/#use
 
 Certificate | Date
 ----------- | ----
-[Algorithms, Part 1](./assets/princetonAlgorithmsPart1.pdf) | November 2021
-[Algorithms, Part 2](./assets/princetonAlgorithmsPart2.pdf) | December 2021
+[Algorithms], Part 1(./assets/princetonAlgorithmsPart1.pdf) | November 2021
+[Algorithms], Part 2(./assets/princetonAlgorithmsPart2.pdf) | December 2021
 
 # HarvardX Courses
 
