@@ -31,6 +31,13 @@ A [Blackjack](https://py2.codeskulptor.org/#user6-AemuZnJl43-82.py) game. Try to
 A [Spaceship](https://py2.codeskulptor.org/#user48_MPQTkk1KW3_36.py) game, where a user must guide a spaceship through an asteroid field. | `Python`, `Skulptor`
 A solver for the [Fifteen Tile Sliding Puzzle](https://py2.codeskulptor.org/#user48_juzU6X12Kw_4.py). Press the play button to run. | `Python`, `Skulptor`
 
+# Princeton Courses
+
+Certificate | Date
+----------- | ----
+[Algorithms, Part 1](./assets/princetonAlgorithmsPart1.pdf) | November 2021
+[Algorithms, Part 2](./assets/princetonAlgorithmsPart2.pdf) | December 2021
+
 # HarvardX Courses
 
 Certificate | Date
