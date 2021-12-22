@@ -33,23 +33,23 @@ A solver for the [Fifteen Tile Sliding Puzzle](https://py2.codeskulptor.org/#use
 
 # Princeton Courses
 
-Course | Respository | Completion Date
--------| ----------- | ---------------
+Course Certificate | Respository | Completion Date
+------------------ | ----------- | ---------------
 COS226a: [Algorithms, Part 1](./assets/princetonAlgorithmsPart1.pdf) | [Project Code](https://github.com/altareen/princeton-algorithms) | November 2021
 COS226b: [Algorithms, Part 2](./assets/princetonAlgorithmsPart2.pdf) | [Project Code](https://github.com/altareen/princeton-algorithms) | December 2021
 
 # Harvard Courses
 
-Course | Respository | Completion Date
--------| ----------- | ---------------
+Course Certificate | Respository | Completion Date
+------------------ | ----------- | ---------------
 CS50x: [Introduction to Computer Science](https://cs50.harvard.edu/certificates/83d1179c-48e4-4810-ae17-d11446b49675) | [Project Code](https://github.com/altareen/cs50x/tree/main/session2021) | March 2021
 CS50web: [Web Programming with Python and JavaScript](https://cs50.harvard.edu/certificates/d3d34148-f4a2-422e-b08c-47b947cfb25d) | [Project Code](https://github.com/altareen/cs50web/tree/main/session2021) | July 2021
 CS50ai: [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/f98b48eb-c761-4517-9f6f-bb83402f8971) | [Project Code](https://github.com/altareen/cs50ai/tree/main/session2021) | September 2021
 
 # MIT Courses
 
-Course | Respository | Completion Date
--------| ----------- | ---------------
+Course Certificate | Respository | Completion Date
+------------------ | ----------- | ---------------
 6.00.1x: [Introduction to Computer Science and Programming Using Python](https://verify.edx.org/cert/5b17beb140d747268addaf8f42dd318e) | | August 2015
 6.00.2x: [Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/c6bf2d4185d448a48027700a639cadb2) | [Project Code](https://github.com/altareen/mitopencourseware/tree/main/datascience6.00.2x) | December 2015
 
