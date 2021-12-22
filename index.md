@@ -40,11 +40,11 @@ COS226b: [Algorithms, Part 2](./assets/princetonAlgorithmsPart2.pdf) | [Codebase
 
 # Harvard Courses
 
-Course | Completion Date
------------ | ----
-CS50x: [Introduction to Computer Science](https://cs50.harvard.edu/certificates/83d1179c-48e4-4810-ae17-d11446b49675) [Codebase](https://github.com/altareen/cs50x/tree/main/session2021) | March 2021
-CS50web: [Web Programming with Python and JavaScript](https://cs50.harvard.edu/certificates/d3d34148-f4a2-422e-b08c-47b947cfb25d) [Codebase](https://github.com/altareen/cs50web/tree/main/session2021) | July 2021
-CS50ai: [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/f98b48eb-c761-4517-9f6f-bb83402f8971) [Codebase](https://github.com/altareen/cs50ai/tree/main/session2021) | September 2021
+Course | Codebase | Completion Date
+-------| -------- | ---------------
+CS50x: [Introduction to Computer Science](https://cs50.harvard.edu/certificates/83d1179c-48e4-4810-ae17-d11446b49675) | [Codebase](https://github.com/altareen/cs50x/tree/main/session2021) | March 2021
+CS50web: [Web Programming with Python and JavaScript](https://cs50.harvard.edu/certificates/d3d34148-f4a2-422e-b08c-47b947cfb25d) | [Codebase](https://github.com/altareen/cs50web/tree/main/session2021) | July 2021
+CS50ai: [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/f98b48eb-c761-4517-9f6f-bb83402f8971) | [Codebase](https://github.com/altareen/cs50ai/tree/main/session2021) | September 2021
 
 # MIT Courses
 
