@@ -50,7 +50,7 @@ CS50ai: [Introduction to Artificial Intelligence with Python](https://cs50.harva
 
 Course | Completion Date
 ----------- | ----
-6.00.1x: [Introduction to Computer Science and Programming Using Python](https://verify.edx.org/cert/5b17beb140d747268addaf8f42dd318e) [Codebase]() | August 2015
+6.00.1x: [Introduction to Computer Science and Programming Using Python](https://verify.edx.org/cert/5b17beb140d747268addaf8f42dd318e) | August 2015
 6.00.2x: [Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/c6bf2d4185d448a48027700a639cadb2) [Codebase](https://github.com/altareen/mitopencourseware/tree/main/datascience6.00.2x) | December 2015
 
 # Beijing National Day School: Past Teaching Duties
