@@ -33,22 +33,22 @@ A solver for the [Fifteen Tile Sliding Puzzle](https://py2.codeskulptor.org/#use
 
 # Princeton Courses
 
-Certificate | Date
+Course | Completion Date
 ----------- | ----
-[Algorithms](./assets/princetonAlgorithmsPart1.pdf), Part 1 | November 2021
-[Algorithms](./assets/princetonAlgorithmsPart2.pdf), Part 2 | December 2021
+[Algorithms, Part 1] [Grade Report](./assets/princetonAlgorithmsPart1.pdf) [Codebase](https://github.com/altareen/princeton-algorithms) | November 2021
+[Algorithms, Part 2] [Grade Report](./assets/princetonAlgorithmsPart2.pdf) [Codebase](https://github.com/altareen/princeton-algorithms) | December 2021
 
-# HarvardX Courses
+# Harvard Courses
 
-Certificate | Date
+Course | Completion Date
 ----------- | ----
 CS50x: [Introduction to Computer Science](https://cs50.harvard.edu/certificates/83d1179c-48e4-4810-ae17-d11446b49675) | November 2020
 CS50web: [Web Programming with Python and JavaScript](https://cs50.harvard.edu/certificates/d3d34148-f4a2-422e-b08c-47b947cfb25d) | July 2021
 CS50ai: [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/f98b48eb-c761-4517-9f6f-bb83402f8971) | September 2021
 
-# MITx Courses
+# MIT Courses
 
-Certificate | Date
+Course | Completion Date
 ----------- | ----
 6.00.1x: [Introduction to Computer Science and Programming Using Python](https://verify.edx.org/cert/5b17beb140d747268addaf8f42dd318e) | August 2015
 6.00.2x: [Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/c6bf2d4185d448a48027700a639cadb2) | December 2015
