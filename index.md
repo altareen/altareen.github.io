@@ -12,8 +12,8 @@
 
 # Web Development Projects
 
-Project Website | Languages/Frameworks
----------------- | --------------------
+Project Website(username: `hpotter` password: `magicwand`) | Languages/Frameworks
+--------------- | --------------------
 A [Book Search System](https://cs50beyond-booksearch.herokuapp.com/) which allows users to search for books by an author's name, or by book title. | `Python`, `Flask`
 A [Stock Portfolio Manager](https://finance-stocks.herokuapp.com/login) which models a virtual stock market. | `Python`, `Flask`
 A [Course Registration System](http://academic-registration.herokuapp.com/login) for a fictional high school. | `Python`, `Flask`
@@ -23,7 +23,7 @@ A [Microblogging Site](https://network-microblog.herokuapp.com/) where users can
 # Game & Puzzle Projects
 
 Project Website | Languages/Frameworks
----------------- | --------------------
+--------------- | --------------------
 A [Stopwatch](https://py2.codeskulptor.org/#user40_l4l9VbGgCA_7.py) game, which tests your reflexes. | `Python`, `Skulptor`
 A [Pong](https://py2.codeskulptor.org/#user40_bKhrkQuaws_10.py) clone, where users must move a paddle up or down to keep a ball in play. | `Python`, `Skulptor`
 A [Memory](https://py2.codeskulptor.org/#user5-gzATlXBWGN-4.py) game, where a player has to remember which numbers are paired up. | `Python`, `Skulptor`
