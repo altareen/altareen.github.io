@@ -53,6 +53,12 @@ Course Certificate | Respository | Completion Date
 6.00.1x: [Introduction to Computer Science and Programming Using Python](https://verify.edx.org/cert/5b17beb140d747268addaf8f42dd318e) | | August 2015
 6.00.2x: [Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/c6bf2d4185d448a48027700a639cadb2) | [Project Code](https://github.com/altareen/mitopencourseware/tree/main/datascience6.00.2x) | December 2015
 
+# Coding Challenges
+
+Website | Repository | Session
+------- | ---------- | -------
+[Advent of Code](https://adventofcode.com) | [Code Solutions](https://github.com/altareen/adventofcode) | 2021
+
 # Beijing National Day School: Past Teaching Duties
 
 Course Website | Duration
