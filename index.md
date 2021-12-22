@@ -33,10 +33,10 @@ A solver for the [Fifteen Tile Sliding Puzzle](https://py2.codeskulptor.org/#use
 
 # Princeton Courses
 
-Course | Completion Date
------------ | ----
-COS 226a: [Algorithms, Part 1](./assets/princetonAlgorithmsPart1.pdf) [Codebase](https://github.com/altareen/princeton-algorithms) | November 2021
-COS 226b: [Algorithms, Part 2](./assets/princetonAlgorithmsPart2.pdf) [Codebase](https://github.com/altareen/princeton-algorithms) | December 2021
+Course | Codebase | Completion Date
+-------| -------- | ---------------
+COS226a: [Algorithms, Part 1](./assets/princetonAlgorithmsPart1.pdf) | [Codebase](https://github.com/altareen/princeton-algorithms) | November 2021
+COS226b: [Algorithms, Part 2](./assets/princetonAlgorithmsPart2.pdf) | [Codebase](https://github.com/altareen/princeton-algorithms) | December 2021
 
 # Harvard Courses
 
