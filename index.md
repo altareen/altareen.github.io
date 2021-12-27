@@ -10,7 +10,9 @@
 |
 -->
 
-# Web Development Projects
+# Programming Projects
+
+## Web Development Projects
 
 Project Website(username: `hpotter` password: `magicwand`) | Languages/Frameworks
 --------------- | --------------------
@@ -21,7 +23,7 @@ A [Course Registration System](http://www.heroku.com) for a fictional high schoo
 An [Auction Marketplace](https://commerce-marketplace.herokuapp.com/) which allows potential buyers to bid on household items for sale. | `Python`, `Django`
 A [Microblogging Site](https://network-microblog.herokuapp.com/) where users can post short messages to a community board, and "follow" other users. | `Python`, `Django`
 
-# Game & Puzzle Projects
+## Game & Puzzle Projects
 
 Project Website | Languages/Frameworks
 --------------- | --------------------
@@ -32,14 +34,16 @@ A [Blackjack](https://py2.codeskulptor.org/#user6-AemuZnJl43-82.py) game. Try to
 A [Spaceship](https://py2.codeskulptor.org/#user48_MPQTkk1KW3_36.py) game, where a user must guide a spaceship through an asteroid field. | `Python`, `Skulptor`
 A solver for the [Fifteen Tile Sliding Puzzle](https://py2.codeskulptor.org/#user48_juzU6X12Kw_4.py). Press the play button to run. | `Python`, `Skulptor`
 
-# Princeton Courses
+# Academic Courses
+
+## Princeton Courses
 
 Course Website | Course Certificate | Code Respository | Completion Date
 -------------- | ------------------ | ---------------- | ---------------
 COS226a: [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1/home/welcome) | [cos226a](./assets/princetonAlgorithmsPart1.pdf) | [princeton-algorithms](https://github.com/altareen/princeton-algorithms) | November 2021
 COS226b: [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2/home/welcome) | [cos226b](./assets/princetonAlgorithmsPart2.pdf) | [princeton-algorithms](https://github.com/altareen/princeton-algorithms) | December 2021
 
-# Harvard Courses
+## Harvard Courses
 
 Course Website | Course Certificate | Code Respository | Completion Date
 -------------- | ------------------ | ---------------- | ---------------
@@ -47,7 +51,7 @@ CS50x: [Introduction to Computer Science](https://cs50.harvard.edu/x/2021/) | [c
 CS50web: [Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | [cs50web](https://cs50.harvard.edu/certificates/d3d34148-f4a2-422e-b08c-47b947cfb25d) | [cs50web](https://github.com/altareen/cs50web/tree/main/session2021) | July 2021
 CS50ai: [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) | [cs50ai](https://cs50.harvard.edu/certificates/f98b48eb-c761-4517-9f6f-bb83402f8971) | [cs50ai](https://github.com/altareen/cs50ai/tree/main/session2021) | September 2021
 
-# MIT Courses
+## MIT Courses
 
 Course Website | Course Certificate | Code Respository | Completion Date
 -------------- | ------------------ | ---------------- | ---------------
