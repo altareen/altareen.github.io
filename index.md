@@ -48,6 +48,15 @@ CS50ai: [Introduction to Artificial Intelligence with Python](https://cs50.harva
 
 # MIT Courses
 
+Course Website | Course Certificate | Code Respository | Completion Date
+-------------- | ------------------ | ---------------- | ---------------
+6.00.1x: [Introduction to Computer Science and Programming Using Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/) | [6.00.1x](https://verify.edx.org/cert/5b17beb140d747268addaf8f42dd318e) | N/A | August 2015
+6.00.2x: [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | [6.00.2x](https://courses.edx.org/certificates/c6bf2d4185d448a48027700a639cadb2) | [6.00.2x](https://github.com/altareen/mitopencourseware/tree/main/datascience6.00.2x) | December 2015
+
+
+
+# MIT Courses
+
 Course Certificate | Respository | Completion Date
 ------------------ | ----------- | ---------------
 6.00.1x: [Introduction to Computer Science and Programming Using Python](https://verify.edx.org/cert/5b17beb140d747268addaf8f42dd318e) | | August 2015
