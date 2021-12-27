@@ -55,8 +55,8 @@ Course Website | Course Certificate | Code Respository | Completion Date
 
 # Coding Challenges
 
-Challenge Website | Repository | Session
------------------ | ---------- | -------
+Challenge Website | Code Repository | Session
+----------------- | --------------- | -------
 [Advent of Code](https://adventofcode.com) | [adventofcode](https://github.com/altareen/adventofcode/tree/main/session2021) | 2021
 
 # Beijing National Day School: Past Teaching Duties
