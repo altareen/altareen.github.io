@@ -35,8 +35,7 @@ A solver for the [Fifteen Tile Sliding Puzzle](https://py2.codeskulptor.org/#use
 
 Course Website | Certificate | Code Respository | Completion Date
 -------------- | ----------- | ---------------- | ---------------
-[COS226a: Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1/home/welcome)  | [Certificate](./assets/princetonAlgorithmsPart1.pdf) | [Project Code](https://github.com/altareen/princeton-algorithms) | November 2021
-
+COS226a: [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1/home/welcome)  | [Certificate](./assets/princetonAlgorithmsPart1.pdf) | [Project Code](https://github.com/altareen/princeton-algorithms) | November 2021
 
 # Princeton Courses
 
