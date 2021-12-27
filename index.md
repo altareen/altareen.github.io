@@ -16,7 +16,6 @@
 
 Project Website(username: `hpotter` password: `magicwand`) | Languages/Frameworks
 --------------- | --------------------
-A [Book Search System](https://cs50beyond-booksearch.herokuapp.com/) which allows users to search for books by an author's name, or by book title. | `Python`, `Flask`
 A [Stock Portfolio Manager](https://finance-stocks.herokuapp.com/login) which models a virtual stock market. | `Python`, `Flask`
 A [Course Registration System](https://lesson-registration.herokuapp.com/login) for a fictional high school, built with Flask. | `Python`, `Flask`
 A [Course Registration System](https://academic-registration.herokuapp.com/) for a fictional high school, built with Django. | `Python`, `Django`
@@ -71,7 +70,13 @@ Course Website | Duration
 [AP Computer Science A](https://altareen.github.io/csa) | 2013 to 2020
 [AP Computer Science Principles](https://altareen.github.io/csp) | 2016 to 2020
 
-<!-- # [edX:](https://www.edx.org) Verified Course Certificates
+<!-- ## Web Development Projects
+
+Project Website | Languages/Frameworks
+--------------- | --------------------
+A [Book Search System](https://cs50beyond-booksearch.herokuapp.com/) which allows users to search for books by an author's name, or by book title. | `Python`, `Flask`
+
+# [edX:](https://www.edx.org) Verified Course Certificates
 
 Course Code | Course Title | Date | Verified Certificate Link
 ----------- | ------------ | ---- | -------------------------
