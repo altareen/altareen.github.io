@@ -16,7 +16,8 @@ Project Website(username: `hpotter` password: `magicwand`) | Languages/Framework
 --------------- | --------------------
 A [Book Search System](https://cs50beyond-booksearch.herokuapp.com/) which allows users to search for books by an author's name, or by book title. | `Python`, `Flask`
 A [Stock Portfolio Manager](https://finance-stocks.herokuapp.com/login) which models a virtual stock market. | `Python`, `Flask`
-A [Course Registration System](http://academic-registration.herokuapp.com/login) for a fictional high school. | `Python`, `Flask`
+A [Course Registration System](http://academic-registration.herokuapp.com/login) for a fictional high school, built with Flask. | `Python`, `Flask`
+A [Course Registration System](http://www.heroku.com) for a fictional high school, built with Django. | `Python`, `Django`
 An [Auction Marketplace](https://commerce-marketplace.herokuapp.com/) which allows potential buyers to bid on household items for sale. | `Python`, `Django`
 A [Microblogging Site](https://network-microblog.herokuapp.com/) where users can post short messages to a community board, and "follow" other users. | `Python`, `Django`
 
