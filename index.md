@@ -57,6 +57,15 @@ Course Website | Course Certificate | Code Respository | Completion Date
 6.00.1x: [Introduction to Computer Science and Programming Using Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/) | [6.00.1x](https://verify.edx.org/cert/5b17beb140d747268addaf8f42dd318e) | N/A | August 2015
 6.00.2x: [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | [6.00.2x](https://courses.edx.org/certificates/c6bf2d4185d448a48027700a639cadb2) | [6.00.2x](https://github.com/altareen/mitopencourseware/tree/main/datascience6.00.2x) | December 2015
 
+## Rice University Courses
+
+Course Website | Course Certificate | Code Respository | Completion Date
+-------------- | ------------------ | ---------------- | ---------------
+IPP1: [An Introduction to Interactive Programming in Python(Part 1)](https://www.coursera.org/learn/interactive-python-1) | [IPP1](./assets/riceInteractivePythonPart1.pdf) | [interactivePython](https://github.com/altareen/riceuniversity/tree/main/interactivePython) | October 2016
+IPP2: [An Introduction to Interactive Programming in Python(Part 2)](https://www.coursera.org/learn/interactive-python-2) | [IPP2](./assets/riceInteractivePythonPart2.pdf) | [interactivePython](https://github.com/altareen/riceuniversity/tree/main/interactivePython) | October 2016
+POC1: [Principles of Computing(Part 1)](https://www.coursera.org/learn/principles-of-computing-1) | [POC1](./assets/ricePrinciplesOfComputingPart1.pdf) | [principlesOfComputing](https://github.com/altareen/riceuniversity/tree/main/principlesOfComputing) | October 2016
+POC2: [Principles of Computing(Part 2)](https://www.coursera.org/learn/principles-of-computing-2) | [POC2](./assets/ricePrinciplesOfComputingPart2.pdf) | [principlesOfComputing](https://github.com/altareen/riceuniversity/tree/main/principlesOfComputing) | May 2017
+
 # Coding Challenges
 
 Challenge Website | Code Repository | Session
