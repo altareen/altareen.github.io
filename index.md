@@ -35,6 +35,12 @@ A solver for the [Fifteen Tile Sliding Puzzle](https://py2.codeskulptor.org/#use
 
 # Academic Courses
 
+## Stanford Courses
+
+Course Website | Course Certificate | Code Respository | Completion Date
+-------------- | ------------------ | ---------------- | ---------------
+CS229: [Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome) | [cs229](./assets/machineLearningCS229Certificate.pdf) | N/A | January 2022
+
 ## Princeton Courses
 
 Course Website | Course Certificate | Code Respository | Completion Date
