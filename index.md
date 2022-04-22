@@ -20,9 +20,9 @@ A [Stock Portfolio Manager](https://finance-stocks.herokuapp.com/login) which mo
 A [Course Registration System](https://lesson-registration.herokuapp.com/login) for a fictional high school, built with Flask. | `Python`, `Flask`
 A [Course Registration System](https://academic-registration.herokuapp.com/) for a fictional high school, built with Django. | `Python`, `Django`
 An [Automobile Manager](https://webapps-django.herokuapp.com/autos/) which allows users to keep track of the details of various cars. | `Python`, `Django`
-A [Classified Ad Site](https://webapps-django.herokuapp.com/adverts/) which allows users to post items that they wish to sell. Users can view details about the items, mark their favorites, and leave comments. | `Python`, `Django`
 
-<!-- An [Auction Marketplace](https://commerce-marketplace.herokuapp.com/) which allows potential buyers to bid on household items for sale. | `Python`, `Django`
+<!-- A [Classified Ad Site](https://webapps-django.herokuapp.com/adverts/) which allows users to post items that they wish to sell. Users can view details about the items, mark their favorites, and leave comments. | `Python`, `Django`
+An [Auction Marketplace](https://commerce-marketplace.herokuapp.com/) which allows potential buyers to bid on household items for sale. | `Python`, `Django`
 A [Microblogging Site](https://network-microblog.herokuapp.com/) where users can post short messages to a community board, and "follow" other users. | `Python`, `Django` -->
 
 ## Game & Puzzle Projects
