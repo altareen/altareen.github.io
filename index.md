@@ -12,7 +12,7 @@
 
 # Buffalo Startup Weekend 2022
 
-[Eventasmic](https://dashboard.heroku.com/apps/events-performances)
+[Eventasmic](https://events-performances.herokuapp.com/events/)
 
 [Logo](./assets/logo.png)
 
