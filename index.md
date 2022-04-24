@@ -10,12 +10,6 @@
 |
 -->
 
-# Buffalo Startup Weekend 2022
-
-[Eventasmic](https://events-performances.herokuapp.com/events/)
-
-[Logo](./assets/logo.png)
-
 # Programming Projects
 
 ## Web Development Projects
