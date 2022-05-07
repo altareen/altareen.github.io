@@ -23,6 +23,7 @@ A [Course Registration System](https://academic-registration.herokuapp.com/) for
 An [Auction Marketplace](https://codingdjango.herokuapp.com/auctions/) which allows potential buyers to bid on household items for sale. | `Python`, `Django`
 An [Automobile Manager](https://codingdjango.herokuapp.com/autos/) which allows users to keep track of the details of various cars. | `Python`, `Django`
 A [Classified Ad Site](https://codingdjango.herokuapp.com/adverts/) which allows users to post items that they wish to sell. Users can view details about the items, mark their favorites, and leave comments. | `Python`, `Django`
+
 <!--
 A [Microblogging Site](https://network-microblog.herokuapp.com/) where users can post short messages to a community board, and "follow" other users. | `Python`, `Django`
 -->
