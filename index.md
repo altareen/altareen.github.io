@@ -16,7 +16,7 @@
 
 Project Website | Languages/Frameworks
 --------------- | --------------------
-An [Event Planning Platform](https://codingdjango.herokuapp.com/events/) for managing musical performances. | `Python`, `Django`
+An **Event Planning Platform** for managing musical performances. | `Python`, `Django`
 A [Stock Portfolio Manager](https://finance-stocks.herokuapp.com/login) which models a virtual stock market. | `Python`, `Flask`
 A [Course Registration System](https://lesson-registration.herokuapp.com/login) for a fictional high school, built with Flask. | `Python`, `Flask`
 A [Course Registration System](https://codingdjango.herokuapp.com/academics/) for a fictional high school, built with Django. | `Python`, `Django`
